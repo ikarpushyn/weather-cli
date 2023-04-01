@@ -1,0 +1,26 @@
+{
+	"name": "console-weather",
+	"version": "1.0.0",
+	"description": "CLI for getting weather",
+	"bin": "./index.js",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"weather"
+	],
+	"author": "Ilyja Karpushyn",
+	"license": "ISC",
+	"homepage": "https://google.com",
+	"repository": {
+		"type": "git",
+		"url": "https://google.com"
+	},
+	"bugs": {
+		"url": "https://google.com",
+		"email": "komperdel@gmail.com"
+	}
+}
