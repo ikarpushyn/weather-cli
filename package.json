@@ -17,13 +17,13 @@
 	],
 	"author": "Ilyja Karpushyn",
 	"license": "ISC",
-	"homepage": "https://google.com",
+	"homepage": "https://github.com/ikarpushyn",
 	"repository": {
 		"type": "git",
-		"url": "https://google.com"
+		"url": "https://github.com/ikarpushyn"
 	},
 	"bugs": {
-		"url": "https://google.com",
+		"url": "https://github.com/ikarpushyn",
 		"email": "komperdel@gmail.com"
 	},
 	"dependencies": {
