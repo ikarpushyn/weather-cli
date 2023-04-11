@@ -1,5 +1,5 @@
 {
-	"name": "console-weather_by_Ilija",
+	"name": "console-weather-by-ilija",
 	"version": "1.0.0",
 	"description": "CLI for getting weather",
 	"main": "weather.js",
